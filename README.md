@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**sufasah/sufasah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on E-Commercial full-stack individual web project
+- 🌱 I’m currently learning mobile and web development
+- 📫 How to reach me: sufasah@gmail.com
+- ⚡ Fun Facts: You are looking right ->here<- :stuck_out_tongue_winking_eye:
 
-Here are some ideas to get you started:
+[<img align="left" alt="Sufasah | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sufasah | Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here Some Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sufasah&show_icons=true)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufasah)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[linkedin]: https://linkedin.com/in/fsah-220632179
+[hackerrank]: https://hackerrank.com/NoStuff

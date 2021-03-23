@@ -13,8 +13,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sufasah&show_icons=true)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufasah)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 
 [linkedin]: https://linkedin.com/in/fsah-220632179
 [hackerrank]: https://hackerrank.com/NoStuff

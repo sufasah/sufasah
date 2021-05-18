@@ -9,7 +9,7 @@
 
 <br>
 
-## Here Some Stats
+## Some Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sufasah&show_icons=true)
 <br><br>

@@ -1,4 +1,4 @@
-# <div align="center">Hi there 👋 I'm Fadıl Şahin</div>
+# <div align="center">Hi there 👋</div>
 
 ### Contact:
 
@@ -13,5 +13,5 @@
 ![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=sufasah&layout=compact&langs_count=100&include_all_commits=true&count_private=true")
 <br><br>
 
-[linkedin]: https://linkedin.com/in/fsah-220632179
+[linkedin]: https://www.linkedin.com/in/fadil-sahin/
 [hackerrank]: https://hackerrank.com/NoStuff
